@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pcopy-readonly</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>@property (nonatomic, readonly, copy) &lt;#TYPE#&gt; *&lt;#name#&gt;; /**&lt; &lt;#desc#&gt; */</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>117F8382-3E04-499E-9DCB-FB6661508AF4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Define a readonly copy property.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Property: copy-readonly</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
